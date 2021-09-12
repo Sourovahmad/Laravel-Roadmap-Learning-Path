@@ -45,6 +45,15 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Table Pagination |:book: [Database Pagination](https://laravel.com/docs/8.x/pagination) <br>|
 
 
+### Beginner Demo-Project: Personal Blog
+
+To achieve this Beginner level, you would need to practice by creating something like [this personal blog project](https://github.com/LaravelDaily/Laravel-Roadmap-Beginner-Challenge).
+
+Inside of the repository above, you will find all the details of the task, with a few example solutions.
+
+-----
+
+
 ## Advanced Beginner Level
 The goal of this level is to find the first job or freelance gig
 
@@ -68,10 +77,10 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Authorization: Roles/Permissions, Gates, Policies |:book: [Authorization](https://laravel.com/docs/8.x/authorization) <br>:clapper: [Laravel Roles and Permissions: All CORE Things You Need To Know](https://www.youtube.com/watch?v=kZOgH3-0Bko) <br>|
 | Authorization: Extra Packages - Spatie Permission, Bouncer, etc |:clapper: [Spatie Laravel Permission: Example Project Review](https://www.youtube.com/watch?v=NgToi0uiMNQ) <br>:page_facing_up: [Two Best Laravel Packages to Manage Roles/Permissions](https://laravel-news.com/two-best-roles-permissions-packages) <br>:book: [spatie/laravel-permission](https://github.com/spatie/laravel-permission) <br>:book: [JosephSilber/bouncer](https://github.com/JosephSilber/bouncer) <br>|
 | Authentication: Email Verification |:book: [Email Verification](https://laravel.com/docs/8.x/verification) <br>|
-| **File Uploads Advanced** ||
+| **File Uploads Advanced** |:capital_abcd: [File Uploads in Laravel](https://laraveldaily.teachable.com/p/file-uploads-in-laravel) <br>|
 | Drivers and Disks, Example of Amazon S3 |:book: [File Storage](https://laravel.com/docs/8.x/filesystem) <br>:clapper: [Laravel: How to Upload Files to Amazon S3](https://www.youtube.com/watch?v=xZQM9q_QxMA) <br>|
 | Extra Packages: Spatie Medialibrary, Intervention Image, etc |:book: [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) <br>:book: [intervention/image](https://github.com/Intervention/image) <br>|
-| **API Basics** ||
+| **API Basics** |:capital_abcd: [How to Create Laravel API](https://laraveldaily.teachable.com/p/how-to-create-laravel-api) <br>|
 | API Routes and Controllers |:book: [API Resource Routes](https://laravel.com/docs/8.x/controllers#api-resource-routes) <br>:book: [Default Route Files](https://laravel.com/docs/8.x/routing#the-default-route-files) <br>|
 | Working with API Clients: Postman or Alternatives |:book: [Postman API Client](https://www.postman.com/product/api-client/) <br>|
 | API Eloquent Resources |:book: [Eloquent: API Resources](https://laravel.com/docs/8.x/eloquent-resources) <br>|
@@ -95,6 +104,14 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Deployment on Live Servers |:book: [Deployment](https://laravel.com/docs/8.x/deployment) <br>:page_facing_up: [How to Deploy Laravel Projects to Live Server: The Ultimate Guide](https://laraveldaily.com/how-to-deploy-laravel-projects-to-live-server-the-ultimate-guide/) <br>:page_facing_up: [What Server is Needed to Deploy Laravel Projects](https://laraveldaily.com/what-server-is-needed-to-deploy-laravel-projects/) <br>:clapper: [How we Deploy Laravel: Branches, Staging Servers, Forge and Envoyer](https://www.youtube.com/watch?v=8DVuVftFZcQ) <br>|
 
 
+### Advanced Beginner Demo-Project: Simple CRM
+
+To achieve this Advanced Beginner level, you would need to practice by creating something like [this simple CRM project](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Challenge).
+
+Inside of the repository above, you will find all the details of the task, with an example solution.
+
+-----
+
 ## Mid Level
 Master all Laravel features with 3-5 years of practical experience
 
@@ -116,7 +133,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Laravel HTTP Client and Guzzle |:book: [HTTP Client](https://laravel.com/docs/8.x/http-client) <br>:clapper: [Laravel and External APIs: Get Data with HTTP Client](https://www.youtube.com/watch?v=oEDDZsmMLc0) <br>|
 | Login with X: Laravel Socialite |:book: [Laravel Socialite](https://laravel.com/docs/8.x/socialite) <br>|
 | Creating Artisan Commands |:book: [Writing Artisan Commands](https://laravel.com/docs/8.x/artisan#writing-commands) <br>:clapper: [How to Create Artisan Commands in Laravel](https://www.youtube.com/watch?v=-r3WnYy7g48) <br>|
-| Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>|
+| Task Scheduling |:book: [Task Scheduling](https://laravel.com/docs/8.x/scheduling) <br>:clapper: [Laravel Task Scheduling: Run Artisan Command Hourly](https://www.youtube.com/watch?v=r-KrsQ0dN80) <br>|
 | Caching |:book: [Cache](https://laravel.com/docs/8.x/cache) <br>:clapper: [Cache Eloquent Query Results to Load Pages Instantly](https://www.youtube.com/watch?v=JhKngeE0XJA) <br>|
 | Real-time: Broadcasting, Echo and Pusher |:book: [Broadcasting](https://laravel.com/docs/8.x/broadcasting) <br>|
 | **Jobs and Queues** |:capital_abcd: [Queues in Laravel](https://laraveldaily.teachable.com/p/queues-in-laravel) <br>|
@@ -129,6 +146,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Upload Files via API |:page_facing_up: [Laravel API: How to Upload File from Vue.js](https://blog.quickadminpanel.com/laravel-api-how-to-upload-file-from-vue-js/) <br>|
 | Generate API Documentation |:page_facing_up: [Laravel API Documentation with OpenAPI/Swagger](https://blog.quickadminpanel.com/laravel-api-documentation-with-openapiswagger/) <br>:clapper: [Scribe: New Package for Laravel API Documentation](https://www.youtube.com/watch?v=PjwGI8c2IfA) <br>|
 | API Versioning |:page_facing_up: [Versioning your REST API with Laravel](https://codimth.com/blog/web/laravel/versioning-your-rest-api-laravel) <br>:clapper: [Versioning your API: from V1 to V2 and Beyond [video from my course]](https://laraveldaily.teachable.com/courses/how-to-create-laravel-api/lectures/17568998) <br>|
+| API with OAuth and Laravel Passport |:book: [Laravel Passport](https://laravel.com/docs/8.x/passport) <br>|
 | Only-API Projects with Front-end like Vue.js |:capital_abcd: [Vue.js + Laravel: CRUD with SPA](https://laraveldaily.teachable.com/p/vue-laravel-crud-spa) <br>|
 | Only-API Projects with Mobile Apps |:page_facing_up: [Using Sanctum to authenticate a mobile app](https://laravel-news.com/using-sanctum-to-authenticate-a-mobile-app) <br>|
 | **(optional) Starter Kits: Laravel Jetstream and Fortify** ||
@@ -156,27 +174,25 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 
 | Topic | Learning Links |
 | ----- | ----- |
-| **PHP/Laravel Design Patterns** ||
-| Creational Design Patterns ||
-| Structural Design Patterns ||
-| Behavioral Design Patterns ||
+| **PHP/Laravel Design Patterns** |:clapper: [Laravel Design Patterns - Bobby Bouwmann - Laracon EU 2018 Amsterdam](https://www.youtube.com/watch?v=qpo5KG0vIyE) <br>:capital_abcd: [Laracasts: Design Patterns in PHP](https://laracasts.com/series/design-patterns-in-php) <br>:clapper: [Colin Decarlo - Design Patterns with Laravel [Laracon 2018]](https://www.youtube.com/watch?v=e4ugSgGaCQ0) <br>:clapper: [Matt Stauffer - Patterns That Pay Off [Laracon 2018]](https://www.youtube.com/watch?v=enTb2E4vEos) <br>:capital_abcd: [Design Patterns in PHP](https://refactoring.guru/design-patterns/php) <br>|
+| Creational Design Patterns |:page_facing_up: [Design Patterns PHP: Creational](https://designpatternsphp.readthedocs.io/en/latest/Creational/README.html) <br>|
+| Structural Design Patterns |:page_facing_up: [Design Patterns PHP: Structural](https://designpatternsphp.readthedocs.io/en/latest/Structural/README.html) <br>|
+| Behavioral Design Patterns |:page_facing_up: [Design Patterns PHP: Behavioral](https://designpatternsphp.readthedocs.io/en/latest/Behavioral/README.html) <br>|
 | **Well-written Code** ||
-| SOLID Code ||
-| Scalable Code ||
-| Maintainable Code ||
-| Reusable Code ||
-| Best Practices and Standards ||
+| SOLID Code |:clapper: [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw) <br>:page_facing_up: [Writing Maintainable Code: SOLID Principles Explained in PHP (Laravel)](https://geekflare.com/php-solid-principles/) <br>:capital_abcd: [Laracasts: SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php) <br>:clapper: [PHP Solid Principles [Playlist]](https://www.youtube.com/watch?v=ARxZV8OZ8Cg&list=PLNuh5_K9dfQ3jMU-2C2jYRGe2iXJkpCZj) <br>|
+| Scalable Code |:capital_abcd: [Scaling Laravel](https://courses.serversforhackers.com/scaling-laravel) <br>:clapper: [Enterprise Laravel by Matt Stauffer](https://enterpriselaravel.com/) <br>:page_facing_up: [What the hell is scalable code anyway?](https://blog.sarasarya.com/what-the-hell-is-scalable-code-anyway-f6626ad78227) <br>|
+| Maintainable Code |:page_facing_up: [How would you know if you've written readable and easily maintainable code? [forum thread]](https://softwareengineering.stackexchange.com/questions/141005/how-would-you-know-if-youve-written-readable-and-easily-maintainable-code) <br>:page_facing_up: [Crafting maintainable Laravel applications](https://jasonmccreary.me/articles/crafting-maintainable-laravel-applications/) <br>:page_facing_up: [7 Golden Rules of Clean, Simple and Maintainable Code](https://shhetri.github.io/clean-code/#/) <br>|
+| Best Practices and Standards |:page_facing_up: [Repository: alexeymezenin / laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices) <br>:capital_abcd: [PHP: The Right Way](https://phptherightway.com/) <br>:page_facing_up: [Reddit: What are your Laravel best practices?](https://www.reddit.com/r/laravel/comments/f34t86/what_are_your_laravel_best_practices/) <br>|
 | **Large Datasets** ||
-| Large Database Structures ||
-| NoSQL Solutions ||
-| SQL Query Optimization ||
-| Scaling to Multiple Databases ||
+| Large Database Structures |:capital_abcd: [How to Structure Databases in Laravel](https://laraveldaily.teachable.com/p/how-to-structure-database-in-laravel) <br>|
+| NoSQL Solutions |:book: [MongoDB and Laravel Integration](https://www.mongodb.com/compatibility/mongodb-laravel-intergration) <br>:page_facing_up: [MongoDB + Laravel = Love — When to use NoSQL](https://faun.pub/when-to-use-nosql-getting-started-with-mongodb-in-laravel-f5376ceaf545) <br>|
+| Eloquent/SQL Query Optimization |:page_facing_up: [18 Tips to optimize laravel database queries](https://dudi.dev/optimize-laravel-database-queries/) <br>:page_facing_up: [Optimizing Laravel Part 2: Improving Query Performance with Database Indexing](https://deliciousbrains.com/optimizing-laravel-database-indexing-performance/) <br>:capital_abcd: [Eloquent Performance Patterns](https://eloquent-course.reinink.ca/) <br>|
+| Scaling to Multiple Databases |:page_facing_up: [Scaling Laravel App with Multiple Databases](https://devdojo.com/bobbyiliev/scaling-laravel-app-with-multiple-databases) <br>:page_facing_up: [Multiple DB Connections in Laravel](https://fideloper.com/laravel-multiple-database-connections) <br>|
 | **Working with High-Traffic Projects** ||
-| Stability and Zero-Downtime Deployments ||
-| Performance Optimization and Caching ||
+| Stability and Zero-Downtime Deployments |:book: [Laravel Deployer](https://github.com/deployphp/deployer) <br>:book: [Envoyer - Zero Downtime PHP Deployment](https://envoyer.io/) <br>|
+| Performance Optimization and Caching |:capital_abcd: [Performant Laravel](https://serversforhackers.com/laravel-perf) <br>:page_facing_up: [The Ultimate Performance Checklist For Laravel Apps](https://laravel-news.com/performance-checklist) <br>:page_facing_up: [How to Optimize PHP Laravel Web Application for High Performance?](https://geekflare.com/laravel-optimization/) <br>|
 | **Ensuring Code Quality** ||
-| Writing Testable Code ||
-| Automated Testing: Process Optimization ||
-| Continuous Integration and Continuous Delivery (CI/CD) ||
+| Writing Testable Code |:page_facing_up: [How to write testable code](https://dev.to/ddarrko/how-to-write-more-testable-code-oi7) <br>:page_facing_up: [Refactoring towards testability](https://madewithlove.com/blog/software-engineering/refactoring-untestable-code-towards-testability/) <br>|
+| Continuous Integration and Continuous Delivery (CI/CD) |:page_facing_up: [How to create a CI/CD for a Laravel application using GitHub Actions](https://blog.logrocket.com/how-to-create-a-ci-cd-for-a-laravel-application-using-github-actions/) <br>:page_facing_up: [Configure Laravel 8 for CI/CD with Jenkins and GitHub — Part 1](https://faun.pub/configure-laravel-8-for-ci-cd-with-jenkins-and-github-part-1-58b9be304292) <br>:page_facing_up: [Build, Test, and Deploy Your Laravel Application With GitHub Actions](https://www.twilio.com/blog/build-test-deploy-laravel-application-github-actions) <br>|
 
 
