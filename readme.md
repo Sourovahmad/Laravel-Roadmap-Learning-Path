@@ -19,7 +19,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | ----- | ----- |
 | **Routing Advanced** ||
 | Route Model Binding (complete) |:book: [Route Model Binding](https://laravel.com/docs/8.x/routing#route-model-binding) <br>:clapper: [Laravel Route Model Binding: All You Need To Know](https://www.youtube.com/watch?v=6dEfxGLgevM) <br>|
-| Route Redirect |:book: [Redirect Routes](https://laravel.com/docs/8.x/routing#redirect-routes) <br>|
+| Route Redirect  (complete) |:book: [Redirect Routes](https://laravel.com/docs/8.x/routing#redirect-routes) <br>|
 | **Middleware** ||
 | Create Custom Middleware Class |:book: [Defining Middleware](https://laravel.com/docs/8.x/middleware#defining-middleware) <br>|
 | **Database Advanced** ||
